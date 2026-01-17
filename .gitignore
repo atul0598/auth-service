@@ -1,0 +1,22 @@
+# ===== Build tools =====
+target/
+build/
+.gradle/
+
+# ===== IDEs =====
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# ===== Logs =====
+*.log
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Env / Secrets =====
+.env
+
