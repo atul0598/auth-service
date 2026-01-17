@@ -46,7 +46,10 @@ Client uses JWT for secured API access
 How to Run-
 
 Using Gradle-
+
 gradlew bootRun
+
 Using Docker-
+
 docker-compose up --build
 
